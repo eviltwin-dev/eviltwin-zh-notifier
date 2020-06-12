@@ -1,7 +1,7 @@
 # eviltwin-zh-notifier
 This tool is useful for submitting mirrors to zone-h.org (Single / Mass) <br>
 
-#Instalation
+# Instalation
 
 $ apt-get install python2 <br>
 $ apt-get install git <br>
@@ -10,7 +10,7 @@ $ git clone https://github.com/eviltwin-dev/eviltwin-zh-notifier<br>
 
 Congratulations! You have successfully installed it!
 
-#Use
+# How to use?
 
 $ cd eviltwin-zh-notifier <br>
 $ python2 zh.py
