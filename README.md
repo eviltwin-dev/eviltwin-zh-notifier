@@ -1,7 +1,7 @@
-# eviltwin-zh-notifier
+# Eviltwin-zh-notifier
 This tool is useful for submitting mirrors to zone-h.org (Single / Mass) <br>
 
-# Instalation
+# Installation
 
 $ apt-get install python2 <br>
 $ apt-get install git <br>
